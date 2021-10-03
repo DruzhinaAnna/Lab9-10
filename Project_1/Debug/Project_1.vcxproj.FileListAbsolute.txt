@@ -1,0 +1,5 @@
+C:\Users\anyut\OneDrive\Рабочий стол\Work\Project_1\Debug\Project_1.vcxprojAssemblyReference.cache
+C:\Users\anyut\OneDrive\Рабочий стол\Work\Project_1\Debug\Project1.MyForm.resources
+C:\Users\anyut\OneDrive\Рабочий стол\Work\Project_1\Debug\Project_1.vcxproj.GenerateResource.cache
+C:\Users\anyut\OneDrive\Рабочий стол\Work\Project_1\Debug\Project_1.exe
+C:\Users\anyut\OneDrive\Рабочий стол\Work\Project_1\Debug\Project_1.pdb
